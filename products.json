@@ -1,0 +1,66 @@
+[
+  {
+    "id": "01",
+    "name": "Solstice Gold Ring",
+    "category": "Rings",
+    "price": 128,
+    "image": "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=1000&q=85",
+    "description": "A sculptural statement in warm gold tones."
+  },
+  {
+    "id": "02",
+    "name": "Celeste Pendant",
+    "category": "Necklaces",
+    "price": 164,
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=1000&q=85",
+    "description": "A delicate pendant designed for everyday elegance."
+  },
+  {
+    "id": "03",
+    "name": "Aurelia Timepiece",
+    "category": "Watches",
+    "price": 295,
+    "image": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?auto=format&fit=crop&w=1000&q=85",
+    "description": "A modern silhouette with timeless appeal."
+  },
+  {
+    "id": "04",
+    "name": "Lumi\u00e8re Hoops",
+    "category": "Earrings",
+    "price": 96,
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=1000&q=85",
+    "description": "Refined hoops with an effortless finish."
+  },
+  {
+    "id": "05",
+    "name": "\u00c9lan Bracelet",
+    "category": "Bracelets",
+    "price": 142,
+    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=1000&q=85",
+    "description": "Understated detail, elevated presence."
+  },
+  {
+    "id": "06",
+    "name": "Nocturne Watch",
+    "category": "Watches",
+    "price": 348,
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=1000&q=85",
+    "description": "Quiet confidence in every detail."
+  },
+  {
+    "id": "07",
+    "name": "Eternity Band",
+    "category": "Rings",
+    "price": 185,
+    "image": "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=1000&q=85",
+    "description": "A clean silhouette with enduring charm."
+  },
+  {
+    "id": "08",
+    "name": "Pearl Essence",
+    "category": "Necklaces",
+    "price": 210,
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&w=1000&q=85",
+    "description": "Soft luminosity meets contemporary style."
+  }
+]
